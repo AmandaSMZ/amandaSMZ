@@ -1,5 +1,6 @@
-# **Amanda** Sofia Migut Zugaj 👋
+# **Amanda**👋
 
+- 🌱 I’m currently learning programming, data engineering, machine learning, machine learning, etc.
 
 <!--
 **AmandaSMZ/amandaSMZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
